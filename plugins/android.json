@@ -7,6 +7,9 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.kcs.weatherinfo"
+    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.kcs.weatherinfo"
     }
